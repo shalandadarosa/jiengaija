@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eghiemave.uniongrovechurch.com/sitemap.xml
